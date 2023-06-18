@@ -9,7 +9,7 @@
 
 7 June, 2023
 
-3.Runway ML: Runway ML provides a user-friendly interface for training and using various machine learning models, including generative models. It supports image, text, and audio generation tasks. (Link: https://runwayml.com/)
+3. Runway ML: Runway ML provides a user-friendly interface for training and using various machine learning models, including generative models. It supports image, text, and audio generation tasks. (Link: https://runwayml.com/)
 
 8 June, 2023
 
